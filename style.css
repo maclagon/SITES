@@ -1,0 +1,29 @@
+body {
+color: aquamarine;
+background: blueviolet;
+margin:  0 px;
+
+font-family: "Grey Qo", cursive;
+
+}
+
+header{
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 40px ;
+    color: black(75,16,16 );
+}
+
+section{
+   background: black ;
+padding-bottom: 80px;
+padding-top:80px;
+display: flex ;
+justify-content: center ;
+}
+
+.chamada-texto{
+    margin-right: 5% ;
+}
+
+
